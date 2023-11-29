@@ -34,6 +34,6 @@ The [world](https://en.wikipedia.org/wiki/A_Voyage_to_Arcturus) of AlloGen encom
 
 ## Features
 
-### Linking with AlloPy
+### The Allos and The Topos:  Linking with AlloPy
 
 (description)
