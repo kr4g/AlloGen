@@ -10,6 +10,8 @@ or
 
 `AlloGen` is then a collection of software tools oriented around the *genetics* and the *generation* of **The Alien** in the building of *perforated systems* and synaptic worlds.
 
+*Coming soon...*
+
 ---
 
 ## About
@@ -27,8 +29,6 @@ The [world](https://en.wikipedia.org/wiki/A_Voyage_to_Arcturus) of AlloGen encom
 ### Transmodal Speciation
 
 (description)
-
-*Coming soon...*
 
 ---
 
