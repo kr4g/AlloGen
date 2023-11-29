@@ -8,6 +8,6 @@ or
 
 "gen-", from the Latin prefix *genus*, sharing similar meaning with the Ancient Greek.
 
-`AlloGen` is then a stand-alone software, and a companion library for [`AlloPy`](https://github.com/kr4g/AlloPy.git), oriented around the *genetics* and the *generation* of the *Alien*.
+`AlloGen` is then a stand-alone software, and a companion library for [`AlloPy`](https://github.com/kr4g/AlloPy.git), oriented around the *genetics* and the *generation* of **The Alien**.
 
 *Coming soon...*
