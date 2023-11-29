@@ -20,6 +20,6 @@ And so will it too, though in different forms, arise from another landscape boun
 
 ## The Topoi of **AlloGen**
 
-The world of AlloGen encompasses many distinct but interconnected kingdoms and landscapes implemented as a collection of interlinked Python modules, coding notebooks, Max project files, Max4Live devices, SuperCollider and *gen~* code, and general command line applications.
+The world of AlloGen encompasses many distinct but interconnected kingdoms and landscapes implemented as a collection of Python modules, coding notebooks, Max project files, Max4Live devices, SuperCollider and *gen~* code, and general command line applications.
 
 *Coming soon...*
