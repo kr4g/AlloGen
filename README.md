@@ -5,6 +5,6 @@ Genetic and generative companion library for [AlloPy](https://github.com/kr4g/Al
 
 "-gen", from the Ancient Greek "γένος" (genos), meaning "kind," "family," or "birth."
 
-`AlloGen` is then a stand-alone software and a companion library for `AlloPy` oriented around the *genetics* and the *generation* of *The Alien*.
+`AlloGen` is then a stand-alone software and a companion library for `AlloPy` oriented around the *genetics* and the *generation* of the *Alien*.
 
 *Coming soon...*
