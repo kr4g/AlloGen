@@ -14,7 +14,9 @@ or
 
 ## The Alien
 
-**The Alien** is not any one particular thing, though it might be, but rather an everpresent notion existing as an abstract field that permeates every [*topos*](https://en.wikipedia.org/wiki/A_Voyage_to_Arcturus) in the world of AlloGen.  It is in a landscape, under a set of conditions, that The Alien will arise.  And so will it too, though in different forms, arise from another landscape bounded under another set of conditions.  
+**The Alien** is not any one particular thing, though it might be, but rather an everpresent notion existing as an abstract field that permeates every [*topos*](https://en.wikipedia.org/wiki/A_Voyage_to_Arcturus) in the world of AlloGen.  It is in a landscape, under a set of conditions, that The Alien will arise.  
+
+And so will it too, though in different forms, arise from another landscape bounded under another set of conditions...
 
 ## The Topoi of **AlloGen**
 
