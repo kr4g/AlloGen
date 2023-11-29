@@ -14,7 +14,7 @@ or
 
 (description)
 
-# The *Tpooi* of **AlloGen**
+# The Topoi of **AlloGen**
 
 The world of AlloGen encompasses many distinct but interconnected kingdoms and landscapes implemented as a collection of interlinked Python modules.
 
