@@ -1,8 +1,8 @@
 # AlloGen
 
-"Allo-", from the Ancient Greek "ἄλλος" (állos), meaning "other", "different", or "alien".
+"Allo-", from the Ancient Greek "ἄλλος" (*állos*), meaning "other", "different", or "alien".
 
-"-gen", from the Ancient Greek suffix "γένος" (genos), meaning "kind", "family", or "birth".
+"-gen", from the Ancient Greek suffix "γένος" (*genos*), meaning "kind", "family", or "birth".
 
 or 
 
