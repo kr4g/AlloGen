@@ -10,6 +10,8 @@ or
 
 `AlloGen` is then a stand-alone software, and a companion library for [`AlloPy`](https://github.com/kr4g/AlloPy.git), oriented around the *genetics* and the *generation* of **The Alien**.
 
+---
+
 ## "Allo", The Alien
 
 (description)
