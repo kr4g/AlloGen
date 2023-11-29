@@ -18,10 +18,6 @@ or
 
 ## The Topoi of **AlloGen**
 
-The world of AlloGen encompasses many distinct but interconnected kingdoms and landscapes implemented as a collection of interlinked Python modules.
-
-
-
-
+The world of AlloGen encompasses many distinct but interconnected kingdoms and landscapes implemented as a collection of interlinked Python modules, coding notebooks, Max project files, Max4Live devices, and command line applications.
 
 *Coming soon...*
