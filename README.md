@@ -18,7 +18,9 @@ or
 
 ### The Alien
 
-**The Alien** is not any one particular thing, though it might be, but rather an everpresent notion existing in an abstraction field that permeates each *topos* in the world of AlloGen.  It is in a landscape, under a set of conditions, that The Alien will arise.  
+**The Alien** is not any one particular thing, though it might be, but rather an everpresent notion existing in an abstraction field that permeates the world of AlloGen.  
+
+It is in a landscape, under a set of conditions, that The Alien will arise.  
 
 And so will it too, though in different forms, arise from another landscape bounded under another set of conditions, and so forth...
 
