@@ -8,7 +8,7 @@ or
 
 "gen-", from the Latin prefix *genus*, sharing similar meaning with the Ancient Greek.
 
-`AlloGen` is then a collection of software tools oriented around the *genetics* and the *generation* of **The Alien** in the building of *perforated systems* and synaptic worlds.
+`AlloGen` is then a collection of software tools oriented around the genetics and the genesis of *The Alien* in the building of perforated systems and synaptic worlds.
 
 *Coming soon...*
 
