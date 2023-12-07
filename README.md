@@ -10,6 +10,10 @@ or
 
 `AlloGen` is then a collection of software tools oriented around the genetics and the genesis of **The Alien** in the building of perforated systems and synaptic worlds.
 
+Developed and maintained by MAT graduate student [Ryan Millett](https://www.mat.ucsb.edu/students/#rmillett) as part of the the [Transvergent Research Group](https://translab.mat.ucsb.edu/about/), under the supervision of Marcos Novak, at the University of California, Santa Barbara.
+
+[The MAT transLAB](https://translab.mat.ucsb.edu/).
+
 ---
 
 ## About
