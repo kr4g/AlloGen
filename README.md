@@ -24,11 +24,7 @@ The world of AlloGen encompasses many distinct but interconnected kingdoms and l
 
 ### The Alien
 
-**The Alien** is not any one particular thing, though it might be, but rather an everpresent notion evolving in a field of abstraction that permeates the world of AlloGen.
-
-It is in a landscape, under a set of conditions, that The Alien will arise.  
-
-And so will it too, though in different forms, arise from another landscape bounded under another set of conditions, and so forth...
+**The Alien** is not any one particular thing, though it might be, but rather an everpresent notion evolving in a field of abstraction that permeates the world of AlloGen.  It is in a landscape, under a set of conditions, that The Alien will arise.  And so will it too, though in different forms, arise from another landscape bounded under another set of conditions, and so forth...
 
 The genesis of The Alien is thus not just a singular outcome but an ongoing process that embodies new perspectives, solutions, and understandings that emerge from *transmodal speciation.*
 
